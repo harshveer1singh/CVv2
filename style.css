@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: #40514E;
+}
+h1{
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    color: #66BFBF;
+}
+p{
+    font-size: 16px;
+}
+#no1p{
+    font-size: 3rem;
+}
+h2{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 	2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1.25rem;
+    color: #11999E;
+}
+.container{
+    background-color: #EAF6F6;/*#e0ebe8*/
+    position: absolute;
+    width: 100%;
+    padding-top: 70px;
+    margin-bottom: 10px;    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 87px;
+}
+.top-cloud{
+    position: absolute;
+    left: 1101px;
+    top: 14px;
+}
+#pro-pic{
+    margin-top: 700px;
+    width: 200px;
+
+}
+.mountain{
+    padding-bottom: 20px;
+}
+.skill-pic{
+    width: 300;
+}
+a{
+    margin: 10px 20px;
+    color: #11999E;
+}
+.skill-row{
+    width: 60%;
+    margin: 100px auto;
+    text-align: left;
+}
+.skill-img{
+    border-radius: 10%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row p{
+    line-height: 2;
+}
+#ps{
+    margin-top: -30px;
+}
+#hockey{
+    float: right;
+    margin-left: 30px;
+}
+#starting-para{
+    width: 30%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+    margin: 100px auto;
+    border-color: #c1c1c1;
+}
+#ending-para{
+    width: 50%;
+    margin: 30px auto 60px;
+}
+.btn{
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 24px;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    padding: 10px 20px 10px 20px;
+}
+.btn:hover{
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+.bottom-container{
+    height: 100px;
+    padding-top: 50px;
+    background-color: #66BFBF;
+}
+.bottom-container a{
+    text-decoration: none;
+    color: #11999E;
+    font-size: 18px;
+    font-weight: normal;
+}
+#copy-right{
+    color: #EAF6F6;
+    padding-top: 20px;
+    font-size: 0.85rem;
+    padding: 20px 0;
+}
+#my-skills-heading{
+    margin-bottom: -80px;
+}
+a:hover{
+    color: #EAF6F6;
+}
