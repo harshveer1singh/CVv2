@@ -1,1 +1,2 @@
 This is my personal website
+brave-ledger-verification=8c7d49c44cc0ed29bdfad1a97252c21d230266b21bc0bd9ec3e31beac48a66ff
